@@ -72,6 +72,12 @@
          <section class="section-contianer" id="section2">        
             <h2 class="">yooo</h2>
             <h3 class="">AV</h3>
+            <img src="./img/closeup-giraffe-zoo.jpg" alt="" while=300% height = "200">
+            <a href="https://www.youtube.com/watch?v=GMgsFZ4rkEI">คลิปน่ารัก</a>
+             
+
+
+
             <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis doloribus quae nam officiis neque non natus a laboriosam et iure. Officiis, odio voluptatibus dignissimos rem quaerat accusantium voluptatum nisi at.
                 Obcaecati cum, natus excepturi dolor quas nostrum ea odio beatae explicabo minus doloremque, fuga non sed animi dolorem vitae? Tempora fugiat perferendis error incidunt ratione velit cumque beatae, voluptatem saepe.
                 Odio vero assumenda consectetur minima perferendis ipsum. Aliquam ullam ad necessitatibus veniam commodi dicta asperiores hic doloribus, odio magnam inventore distinctio nisi cum delectus eaque quisquam incidunt quam dolor. Est.
@@ -105,6 +111,10 @@
              <section class="section-contianer" id="section3">
             <h2 class="">fafafa</h2>
             <h3 class="">AV</h3>
+
+            <img src="./img/view-two-zebras-zoo-with-wooden-fence-surface.jpg" alt="" while=300% height = "200">
+            <a href="https://www.youtube.com/watch?v=GMgsFZ4rkEI">คลิปน่ารัก</a>
+
             <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis doloribus quae nam officiis neque non natus a laboriosam et iure. Officiis, odio voluptatibus dignissimos rem quaerat accusantium voluptatum nisi at.
                 Obcaecati cum, natus excepturi dolor quas nostrum ea odio beatae explicabo minus doloremque, fuga non sed animi dolorem vitae? Tempora fugiat perferendis error incidunt ratione velit cumque beatae, voluptatem saepe.
                 Odio vero assumenda consectetur minima perferendis ipsum. Aliquam ullam ad necessitatibus veniam commodi dicta asperiores hic doloribus, odio magnam inventore distinctio nisi cum delectus eaque quisquam incidunt quam dolor. Est.
